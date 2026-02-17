@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation] https://github.com/BrentWebster1/BrentWebster1/edit/main/README.md 
+- **[Vulnerability Management Program Implementation] https://github.com/BrentWebster1/Vulnerability-Management-Program 
 
 # Vulnerability Management Program Implementation
 
